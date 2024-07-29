@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marwen Feki</h1>
 <h3 align="center">A passionate Software developer | Cloud Engineer Student from tunisia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marwendev2&label=Profile%20views&color=0e75b6&style=flat" alt="marwendev2" /> </p>
-
 - 🔭 I’m currently working on **java project**
 
 - 🌱 I’m currently learning **Kubernetes**
