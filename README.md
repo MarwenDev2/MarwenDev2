@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on **Cloud Platfom Projects**
 - 💬 Ask me about **Backend, Cloud, DevOps & System Design**  
 - 📫 Reach me at **marwenfeki214@gmail.com**
-- - 👨‍💻 All of my projects are available at [https://marwenfeki.netlify.app/](https://marwenfeki.netlify.app/)  
+- 👨‍💻 All of my projects are available at [https://marwenfeki.netlify.app/](https://marwenfeki.netlify.app/)  
 - ⚡ Fun fact: I love **camping 🏕️ & ping-pong 🏓**
 ---
 
