@@ -14,6 +14,17 @@
 - ⚡ Fun fact: I love **camping 🏕️ & ping-pong 🏓**
 ---
 
+### 🌍 Connect with Me  
+
+<p align="center">
+  <a href="https://linkedin.com/in/marwenfeki26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://fb.com/profile.php?id=100009264934763"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://instagram.com/marwenfekii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/21494588"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack  
 
 #### 👨‍💻 Languages  
@@ -67,15 +78,3 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-
----
-
-### 🌍 Connect with Me  
-
-<p align="center">
-  <a href="https://linkedin.com/in/marwenfeki26"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://fb.com/profile.php?id=100009264934763"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://instagram.com/marwenfekii"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/21494588"><img src="https://img.shields.io/badge/StackOverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
-</p>
