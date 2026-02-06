@@ -5,11 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=marwendev2&label=Profile%20views&color=0e75b6&style=flat" />
   <img src="https://img.shields.io/github/followers/marwendev2?label=Followers&style=social" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=marwendev2&theme=onedark&no-frame=true&column=6" />
-</p>
-
 ---
 
 ### 🚀 About Me    
